@@ -1,0 +1,5 @@
+org/graylog2/alarmcallbacks/zabbix/ZabbixAlarmCallback$1.class
+org/graylog2/alarmcallbacks/zabbix/ZabbixAlarmCallbackMetadata.class
+org/graylog2/alarmcallbacks/zabbix/ZabbixAlarmCallbackModule.class
+org/graylog2/alarmcallbacks/zabbix/ZabbixAlarmCallback.class
+org/graylog2/alarmcallbacks/zabbix/ZabbixAlarmCallbackPlugin.class
